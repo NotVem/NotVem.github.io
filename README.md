@@ -4,6 +4,6 @@
 ![piano](https://i.pinimg.com/550x/22/99/d2/2299d2644b657c4295aa49bbcc9ae687.jpg)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3w3y8KPTfNeOKPiqUTakBh?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-![Steph Curry]([https://i.pinimg.com/736x/61/3b/61/613b611850dfb0eaca96ee5808257080.jpg](https://i.pinimg.com/originals/6b/0a/53/6b0a53290fbdc7120a716ffd6becadf2.jpg))
+![Steph Curry]([https://i.pinimg.com/736x/61/3b/61/613b611850dfb0eaca96ee5808257080.jpg](https://i.pinimg.com/originals/6b/0a/53/6b0a53290fbdc7120a716ffd6becadf2.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qvg0bPmO1p4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
