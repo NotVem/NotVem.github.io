@@ -7,8 +7,7 @@
 ![Chef Curry](https://i.pinimg.com/originals/6b/0a/53/6b0a53290fbdc7120a716ffd6becadf2.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qvg0bPmO1p4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<img src="https://i.pinimg.com/originals/6b/0a/53/6b0a53290fbdc7120a716ffd6becadf2.jpg"width=680 height=1020 />
 
 ## cars
 
-![GIF]<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/y5ZmWdzXf5pNm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/car-home-video-night-y5ZmWdzXf5pNm">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/y5ZmWdzXf5pNm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/car-home-video-night-y5ZmWdzXf5pNm">via GIPHY</a></p>
